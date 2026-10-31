@@ -1,4 +1,4 @@
-# Credit Card Default Prediction – ML Classification Assignment
+# Credit Card Default Prediction
 
 ## a. Problem statement
 
@@ -16,7 +16,7 @@ The objective is to predict whether a credit-card client will default on payment
 - **Class distribution:** 23,364 no-default records and 6,636 default records.
 - **Split:** 80% training and 20% testing, stratified by target, with `random_state=42`.
 
-The supplied `test_data.csv` contains the held-out test rows, all 23 input features, and the target column. The original Kaggle CSV is used by `train_models.py` and should be downloaded separately for retraining.
+The supplied `test_data.csv` contains the held-out test rows, all 23 input features, and the target column. The original Kaggle CSV is used by `train_models.py` & `2026AJ05071.ipynb` and should be downloaded separately for retraining.
 
 ## c. GitHub Repository Link
 
@@ -69,7 +69,7 @@ The app loads saved models from `model/` and does not retrain on uploaded test d
 
 1. Install the dependencies: `pip install -r requirements.txt`
 2. Download the original Kaggle CSV and place it beside `train_models.py` as `UCI_Credit_Card.csv`.
-3. To reproduce training and regenerate the saved models and test split, run: `python train_models.py`
+3. To reproduce training and regenerate the saved models and test split, run: `2026AJ05071.iynb` in Jupyter.
 4. Start the app: `streamlit run app.py`
 5. Upload `test_data.csv` in the app and select a model.
 
