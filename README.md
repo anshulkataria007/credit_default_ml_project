@@ -20,13 +20,9 @@ The supplied `test_data.csv` contains the held-out test rows, all 23 input featu
 
 ## c. GitHub Repository Link
 
-**Repository:** ADD YOUR PUBLIC GITHUB REPOSITORY URL HERE
-
-The repository should contain `app.py`, `train_models.py`, `requirements.txt`, `README.md`, `test_data.csv`, `model_metrics.csv`, and the five saved model files inside `model/`.
+**Repository:** (https://github.com/anshulkataria007/credit_default_ml_projec)
 
 ## d. Models used and evaluation
-
-All five models were trained on the same training split. StandardScaler is included in the pipelines for Logistic Regression, KNN, and SVM. The Decision Tree and Gaussian Naive Bayes models do not require feature scaling.
 
 ### Evaluation metrics
 
