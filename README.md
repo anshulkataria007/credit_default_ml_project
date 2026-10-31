@@ -78,7 +78,7 @@ The app loads saved models from `model/` and does not retrain on uploaded test d
 ```text
 credit_default_ml_project/
 ├── app.py
-├── train_models.py
+├── 2026AJ05071.ipynb
 ├── requirements.txt
 ├── README.md
 ├── test_data.csv
