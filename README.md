@@ -60,6 +60,9 @@ The app supports:
 
 The app loads saved models from `model/` and does not retrain on uploaded test data.
 <img width="959" height="526" alt="Screenshot 2026-10-31 105142" src="https://github.com/user-attachments/assets/3a1d8b2d-db2f-4704-93e0-7c9b599b58a1" />
+<img width="1032" height="865" alt="26875775352c1a44a40097c9c0089c09" src="https://github.com/user-attachments/assets/d9155efc-c489-4ff6-a776-105c8e6d1374" />
+<img width="923" height="260" alt="Screenshot 2026-10-31 105223" src="https://github.com/user-attachments/assets/beffe6de-64f3-4a36-ab01-c41caf4716da" />
+
 
 
 ## How to run locally
@@ -87,7 +90,3 @@ credit_default_ml_project/
     ├── naive_bayes.joblib
     └── support_vector_machine.joblib
 ```
-
-## BITS Virtual Lab evidence
-
-Insert the required screenshot of the assignment execution on BITS Virtual Lab into the final submission PDF. Do not use a screenshot of the local Streamlit app as a substitute for the BITS Virtual Lab proof.
