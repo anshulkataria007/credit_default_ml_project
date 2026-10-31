@@ -50,7 +50,7 @@ The supplied `test_data.csv` contains the held-out test rows, all 23 input featu
 
 ## Streamlit app
 
-**Live Streamlit App:** ADD YOUR DEPLOYED STREAMLIT COMMUNITY CLOUD URL HERE
+**Live Streamlit App:** https://creditdefaultmlproject-svk2zmm2dncfz3vr57rzvi.streamlit.app/
 
 The app supports:
 1. Uploading a labelled test CSV.
@@ -59,6 +59,8 @@ The app supports:
 4. Viewing a confusion matrix and classification report.
 
 The app loads saved models from `model/` and does not retrain on uploaded test data.
+<img width="959" height="526" alt="Screenshot 2026-10-31 105142" src="https://github.com/user-attachments/assets/3a1d8b2d-db2f-4704-93e0-7c9b599b58a1" />
+
 
 ## How to run locally
 
